@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lemon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchHint">Type text to highlight</string>
+    <string name="title2">Eliminate Uncertainty</string>
+    <string name="text2">The lack of a tailored management process has led many a start-up or, as Ries terms them, a human institution designed to create a new product or service under conditions of extreme uncertainty, to abandon all process. They take a "just do it" approach that avoids all forms of management. But this is not the only option. Using the Lean Startup approach, companies can create order not chaos by providing tools to test a vision continuously. Stereotypes: lean is not simply about spending less money. Lean is not just about failing fast, failing cheap. It is about putting a process, a methodology around the development of a product.</string>
+
+</resources>

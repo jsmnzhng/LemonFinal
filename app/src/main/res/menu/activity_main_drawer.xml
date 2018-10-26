@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Home">
+            <menu>
+        <item
+            android:id="@+id/nav_homepage"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="Test">
+        <menu>
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_content_copy_black_24dp"
+            android:title="Flashcards" />
+        </menu>
+    </item>
+
+    <item android:title="Study">
+        <menu>
+            <item
+                android:id="@+id/topic1"
+                android:icon="@drawable/ic_filter_1"
+                android:title="Topic 1" />
+            <item
+                android:id="@+id/topic2"
+                android:icon="@drawable/ic_filter_2"
+                android:title="Topic 2" />
+            <item
+                android:id="@+id/topic3"
+                android:icon="@drawable/ic_filter_3_black_24dp"
+                android:title="Topic 3" />
+            <item
+                android:id="@+id/nav_video"
+                android:icon="@drawable/ic_play_circle_outline_black_24dp"
+                android:title="Video" />
+            <item
+                android:id="@+id/nav_highlight"
+                android:icon="@drawable/ic_mode_edit_black_24dp"
+                android:title="Highlight" />
+        </menu>
+    </item>
+
+</menu>
